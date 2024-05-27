@@ -1,0 +1,14 @@
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\tarea2_Ejercicios\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.csproj.AssemblyReference.cache
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\tarea2_Ejercicios\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.csproj.CoreCompileInputs.cache
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\tarea2_Ejercicios\tarea2_Ejercicios\bin\Debug\tarea2_Ejercicios.exe.config
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\tarea2_Ejercicios\tarea2_Ejercicios\bin\Debug\tarea2_Ejercicios.exe
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\tarea2_Ejercicios\tarea2_Ejercicios\bin\Debug\tarea2_Ejercicios.pdb
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\tarea2_Ejercicios\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.exe
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\tarea2_Ejercicios\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.pdb
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Empleados\tarea2_Ejercicios\bin\Debug\tarea2_Ejercicios.exe.config
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Empleados\tarea2_Ejercicios\bin\Debug\tarea2_Ejercicios.exe
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Empleados\tarea2_Ejercicios\bin\Debug\tarea2_Ejercicios.pdb
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Empleados\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.csproj.AssemblyReference.cache
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Empleados\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.csproj.CoreCompileInputs.cache
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Empleados\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.exe
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Empleados\tarea2_Ejercicios\obj\Debug\tarea2_Ejercicios.pdb

@@ -1,0 +1,7 @@
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Entradas\Entradas\bin\Debug\Entradas.exe.config
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Entradas\Entradas\bin\Debug\Entradas.exe
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Entradas\Entradas\bin\Debug\Entradas.pdb
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Entradas\Entradas\obj\Debug\Entradas.csproj.AssemblyReference.cache
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Entradas\Entradas\obj\Debug\Entradas.csproj.CoreCompileInputs.cache
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Entradas\Entradas\obj\Debug\Entradas.exe
+E:\Luis\UPI\2024\II Q\Progra II\Tareas del curso\Entradas\Entradas\obj\Debug\Entradas.pdb
